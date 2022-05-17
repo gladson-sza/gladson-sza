@@ -1,7 +1,7 @@
 ### Hello! My name is Gladson.
 
-- 🔭 I’m currently working on Flutter/Android Native
-- 🌱 I’m currently learning CD/CI
+- 🔭 I’m currently working on Android (Kotlin) / Flutter
+- 🌱 I’m currently learning tests
 - 😄 Pronouns: he/his
 - 📫 How to reach me: gladsonsouza@live.com
 
