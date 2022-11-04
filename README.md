@@ -1,7 +1,7 @@
 ### Hello! My name is Gladson.
 
 - 🔭 I’m currently working on Android (Kotlin) / Flutter
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 😄 Pronouns: he/his
 - 📫 How to reach me: gladsonsouza@live.com
 
