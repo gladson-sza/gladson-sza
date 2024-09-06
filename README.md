@@ -1,7 +1,7 @@
 ### Hello! My name is Gladson.
 
-- 🔭 I’m currently working on Machine Learning and Voice Assistant development
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🔭 I’m currently working on Machine Learning, LLMs and Voice Assistant development
+- 🌱 I’m currently learning NLP and LLM's
 - 😄 Pronouns: he/his
 - 📫 How to reach me: gladsonsouza@live.com
 
